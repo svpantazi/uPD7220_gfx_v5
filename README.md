@@ -1,5 +1,6 @@
 uPD7220 Graphics V5
 experimental update Apr 2024 (SV Pantazi)
+DO NOT BUILD (yet), project is largely untested!
 
 This is an updated design based on the original project (updgfx_r0) By Dylan Brophy (NTI) published on Hackaday (https://hackaday.io/project/164728-upd7220-retro-graphics-card-and-vga-hack).
 
