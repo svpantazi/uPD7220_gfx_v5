@@ -8,6 +8,8 @@ This is an updated design based on the original project (updgfx_r0) By Dylan Bro
 The update has a RC2014 bus type interface, 1M (2x512kB) of SRAM, a GAL22v10 to decode IO and provides for PLCC (Z7220) and DIP40 footprints.
 It has yet to be fully tested but it appears to work.
 
+In addition to the hardware images in this repository, I have a couple of videos of it in action:  (https://youtu.be/S6zECMaEpYg) and (https://youtu.be/-x2kSmCfEWI), 
+
 Many thanks to Dylan for his work on the original project!. 
 
 SVP
